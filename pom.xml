@@ -21,6 +21,10 @@
         <module>configserver</module>
         <module>native</module>
         <module>nativeconfigclient</module>
+        <module>configserveronline</module>
+        <module>configclient</module>
+        <module>zipkin</module>
+        <module>zipkinclient</module>
     </modules>
 
     <!-- springboot 环境 -->
